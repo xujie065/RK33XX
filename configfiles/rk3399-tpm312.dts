@@ -9,8 +9,8 @@
 #include "rk3399-opp.dtsi"
 
 / {
-	model = "RK3399 TPM312";
-	compatible = "rk3399,tpm312", "rockchip,rk3399";
+	model = "RK3399 BOX F1";
+	compatible = "rk3399,BOX F1", "rockchip,rk3399";
 
 	aliases {
 		ethernet0 = &gmac;

@@ -48,7 +48,7 @@ TARGET_DEVICES += rk3399_r08" >> target/linux/rockchip/image/armv8.mk
 
 echo -e "\\ndefine Device/rk3399_tpm312
   DEVICE_VENDOR := RK3399
-  DEVICE_MODEL := TPM312
+  DEVICE_MODEL := F1 BOX
   SOC := rk3399
   SUPPORTED_DEVICES := rk3399,tpm312
   UBOOT_DEVICE_NAME := tpm312-rk3399
